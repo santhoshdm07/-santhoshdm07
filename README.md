@@ -29,14 +29,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santhosh-dm-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santhosh-dm-analyst" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/santhosh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/santhosh77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santhosh-dm-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-dm-analyst" height="30" width="40" /></a>
+<a href="https://kaggle.com/santhosh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santhosh77" height="30" width="40" /></a>
 <a href="https://instagram.com/dm_santhosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dm_santhosh" height="30" width="40" /></a>
 <a href="https://medium.com/@santhosh801dm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@santhosh801dm" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/santhosh_dm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/santhosh_dm" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/santhosh801dm?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/santhosh801dm?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/santhosh801dm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/santhosh801dm/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@santhosh801dm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@santhosh801dm" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/santhosh_dm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="santhosh_dm" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/santhosh801dm?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="santhosh801dm?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/santhosh801dm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="santhosh801dm/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@santhosh801dm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@santhosh801dm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
