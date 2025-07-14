@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, LLM**
 
-- 👯 I’m looking to collaborate on **Chatbot development using LLM**
+- 🤝 I’m looking to collaborate on **Chatbot development using LLM**
 
 - 🤝 I’m looking for help with **LLM**
 
@@ -21,7 +21,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1D-YhGD1G5Z1Gh2vlKToYnkPyxMVmtjDa/view?usp=sharing](https://drive.google.com/file/d/1D-YhGD1G5Z1Gh2vlKToYnkPyxMVmtjDa/view?usp=sharing)
 
-- ⚡ Fun fact **My secret talent is cooking😊**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
